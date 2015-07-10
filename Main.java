@@ -17,7 +17,6 @@ public class Main {
 
     private static List<Vertex> nodes;
     private static List<Edge> edges;
-    private static String identifier;
 
     public static void main(String[] args) {
         nodes = new ArrayList<Vertex>();
